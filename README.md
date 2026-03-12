@@ -1,4 +1,4 @@
-# Ll0rens 
+## Ll0rens 
 
 ![Rose](https://github.com/user-attachments/assets/6c99b94f-c311-4975-a530-f2b2f4ca12e0)
 
@@ -9,7 +9,9 @@ A balanced-performance kernel designed for smooth UI, stability, and comfortable
 - S21FE vE (r9s)
 - S20FE vSD (r8q)
 ---
-- **Group:**![Miranda AOSP](t.me/mir4ndSupport).
-- **Channel Support:**![Miranda's Kernel](https://t.me/maKernel).
+- **🧕 Group:**![Miranda AOSP](t.me/mir4ndSupport).
+- **🧕 Channel Support:**![Miranda's Kernel](https://t.me/maKernel).
 
 ---
+If Bootlop: Change ROM
+Always backup before flashing 
