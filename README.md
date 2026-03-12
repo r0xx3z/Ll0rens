@@ -9,6 +9,7 @@ DEVICES Support:
 - S21FE vE (r9s)
 - S20FE vSD (r8q)
 ==================================================================================================
+
 Group: AOSP Kernel Support https://t.me/mir4ndSupport
 Channel: ![Miranda's Kernel] (https://t.me/maKernel)
 ==================================================================================================
