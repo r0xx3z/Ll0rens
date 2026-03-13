@@ -18,6 +18,10 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 - Always backup before flashing
 - !! ONLY FOR AOSP !!
 ---
+⚠️ **Notes**
+- 
+
+**
                                  00
                                  11
                                 ====
