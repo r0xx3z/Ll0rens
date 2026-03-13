@@ -21,6 +21,7 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 ⚠️ **Notes** ⚠️
 - There will be support with Nethunter
 - The maintainer of the r8q kernel is lazy
+---
 
 
                                  00
