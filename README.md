@@ -10,7 +10,7 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 - S20FE vSD (r8q)
 ---
 - **🧕 Group:**[Miranda AOSP](https://t.me/mir4ndSupport)
-- **🧕 Channel Support:**[Miranda's Kernel](https://t.me/maKernel).
+- **🧕 Channel Support:**[Miranda's Kernel](https://t.me/maKernel)
 
 ---
  📃DISCLAIMER📃
