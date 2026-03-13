@@ -29,11 +29,11 @@ A balanced-performance kernel designed for smooth UI, stability, and comfortable
                           `/+++++//+++++:
                          `/++++++//++++++:
                         `/+++oooo//ooooooo/`
-                       ./ooosssso//osssssso+`
+                       ./ooo&&&sso//oss&ssso+`
                       .oossssso-`//`/ossssss+`
-                     -osssssso.  //  :ssssssso.
-                    :osssssss/   //   osssso+++.
-                   /ossssssss/   //   +ssssooo/-
+                     -oss&&sso/  //  :sss&ssso.
+                    :oss&ssss/   //   os&&so+++.
+                   /osss&ssss/   //   &sss&&eoo/-
                  `/ossssso+/:-   //   -:/+osssso+-
                 `+sso+:-`        //       `.-/+oso:
                `++:.             //            `-/+/
