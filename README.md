@@ -6,8 +6,8 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 ---
 📱 **DEVICES Support:** 📱
 - Xiaomi Redmi Note 10 Pro [(Sweet/Sweetin)](https://t.me/mir4ndSupport/49) 
-- S21FE vE [(r9s)](https://t.me/mir4ndSupport/5)
-- S20FE vSD [(r8q)](https://t.me/mir4ndSupport/6)
+- S21FE vE [(r9s)](https://t.me/mir4ndSupport/6)
+- S20FE vSD [(r8q)](https://t.me/mir4ndSupport/5)
 ---
 - **🧕 Group:**[Miranda AOSP](https://t.me/mir4ndSupport)
 - **🧕 Channel Support:**[Miranda's Kernel](https://t.me/maKernel)
