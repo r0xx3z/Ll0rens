@@ -15,13 +15,13 @@ A balanced-performance kernel designed for smooth UI and comfortable daily/gamin
 
 ---
  📃DISCLAIMER📃
-- If Bootlop: Change ROM
 - Always backup before flashing
 - !! ONLY FOR AOSP !!
 ---
 ⚠️ **Notes** ⚠️
-- There will be support with Nethunter
+- There will be support with Nethunter (Any day)
 - The maintainer of the r8q kernel is lazy
+- Only builds A16
 ---
 
 
